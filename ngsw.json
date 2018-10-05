@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "index": "/avishkarverma/pwaDemo/./index.html",
+  "index": "/pwaDemo/./index.html",
   "assetGroups": [
     {
       "name": "app",
