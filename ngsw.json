@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "index": "./index.html",
+  "index": "./",
   "assetGroups": [
     {
       "name": "app",
@@ -8,7 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "./favicon.ico",
-        "./index.html",
+        "./",
         "./main.ba6526f955fcb0cdbd9e.js",
         "./polyfills.f6ae3e8b63939c618130.js",
         "./runtime.ec2944dd8b20ec099bf3.js",
@@ -44,7 +44,7 @@
     "./assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "./assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "./favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "./index.html": "97ab4956b5926b1ceff01dbb67b0c64c5f22ac6b",
+    "./": "97ab4956b5926b1ceff01dbb67b0c64c5f22ac6b",
     "./main.ba6526f955fcb0cdbd9e.js": "b6b712a766d9e43f7f20946f765c28e98ef25645",
     "./polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
     "./runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
